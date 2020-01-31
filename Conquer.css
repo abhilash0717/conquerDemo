@@ -1,0 +1,169 @@
+.navbar-nav{
+	margin-left: 310px;
+}
+.btn-outline-secondary{
+	color: white;
+}
+
+.jumbotron-fluid{
+background-image: url("imageOnenew.jpg");
+ height: 75vh;
+ text-align: center;
+}
+.header{
+	padding-top: 100px;
+	font-size: 80px;
+	color: white;
+}
+.heading{
+	font-size: 25px;
+	color: white;
+}
+.card-title-one{
+	color: #03ad15;
+	font-weight: bold;
+}
+.btn-one{
+	background: #03ad15;
+	margin-left: 70px;
+}
+.card-title-two{
+	color:#0694c7;
+	font-weight: bold;
+}
+.btn-two {
+	background: #0694c7;
+	margin-left: 70px;
+}
+.card-title-three{
+	color:#7e8c91;
+	font-weight: bold;
+}
+.btn-three {
+	background:#8f5304;
+	margin-left: 70px;
+}
+.second{
+	margin-bottom: 65px;
+}
+
+.card-title-four{
+	text-align: center;
+	font-weight: bold;
+	color:#7e8c91;
+}
+.btn-five{
+	margin-left: 345px;
+}
+
+.third{
+	margin-bottom: 40px;
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: url("sixth.jpg");
+
+  /* Set a specific height */
+  height: 400px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.firstpara{
+	margin-top: 25px;
+}
+.paraheader{
+	margin-top: 50px;
+}
+.four{
+	margin-bottom: 40px;
+}
+
+.card-title-six{
+	text-align: center;
+	font-weight: bold;
+	color:#7e8c91;
+}
+.card-title-seven{
+	text-align: center;
+	font-weight: bold;
+	color:#7e8c91;
+}
+.card-title-eight{
+	text-align: center;
+	font-weight: bold;
+	color:#7e8c91;
+}
+.card-title-nine{
+	text-align: center;
+	font-weight: bold;
+	color:#7e8c91;
+}
+.btn-nine{
+	margin-left: 50px;
+}
+.five{
+	margin-bottom: 40px;
+}
+
+.card-title-ten{
+	
+	font-weight: bold;
+	color:#7e8c91;
+}
+.six{
+	margin-bottom: 40px;
+}
+
+.parallaxone {
+  /* The image used */
+  background-image: url("twelvecard.jpg");
+
+  /* Set a specific height */
+  height: 550px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.seven{
+	margin-bottom: 40px;
+}
+
+.eight{
+	margin-top: 40px;
+	opacity: 1;
+}
+.form-control{
+	width: 400px;
+	background-color: transparent;
+	margin-bottom: 20px;
+
+}
+.eight{
+	text-align: center;
+	margin-bottom: 50px;
+	opacity: 0.7;
+}
+
+.nine{
+	margin-top: 50px;
+	text-align: center;
+	opacity: 0.7;
+}
+.paraheader{
+	padding-top: 30px;
+}
+.card-body{
+	background-color: #f2eee9;
+}
